@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ## 原神
 **《原神》是由[上海米哈游网络科技股份有限公司](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E7%B1%B3%E5%93%88%E6%B8%B8%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19987087?fromModule=lemma_inlink)制作发行的一款[开放世界](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E4%B8%96%E7%95%8C/15488017?fromModule=lemma_inlink)冒险游戏，于2017年1月底立项 ，原初测试于2019年6月21日开启 ，再临测试于2020年3月19日开启，启程测试于2020年6月11日开启 ，PC版技术性开放测试于9月15日开启，公测于2020年9月28日开启 。在数据方面，同在官方服务器的情况下，iOS、PC、Android平台之间的账号数据互通，玩家可以在同一账号下切换设备。
 
