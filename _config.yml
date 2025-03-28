@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "个人の网站"
+title                    : "椰子树の网站"
 title_separator          : "-"
 name                     : &name "3546832467"
 description              : &description "QQ+3546832467"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "https://s21.ax1x.com/2025/02/13/pEuBK2Q.jpg"
   name             : "3546832467"
-  pronouns         : "精神病院院长"  
-  bio              : "我造密码币"
+  pronouns         : "一会一会"  
+  bio              : "一会一会"
   location         : "山东入"
   employer         : "文登二中"
   uri              : 114514 
-  email            : "3546832467@qq.com" 
+  email            : "我产酸甜口" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
